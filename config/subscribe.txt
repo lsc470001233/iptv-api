@@ -9,56 +9,62 @@
 https://cdn.jsdelivr.net/gh/suxuang/myIPTV@main/ipv6.m3u
 https://live.zbds.top/tv/iptv4.txt
 https://m3u.ibert.me/txt/o_cn.txt
-https://cdn.jsdelivr.net/gh/asdjkl6/tv@tv/.m3u/整套直播源/测试/整套直播源/l.txt
-https://cdn.jsdelivr.net/gh/asdjkl6/tv@tv/.m3u/整套直播源/测试/整套直播源/kk.txt
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 http://xhztv.top/new.txt
-https://live.zbds.top/tv/iptv4.txt
-https://live.zbds.top/tv/iptv4.txt
 https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u
 https://live.izbds.com/tv/iptv4.txt
 https://github.com/fanmingming/live
 https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+https://live.hacks.tools/iptv/languages/zho.m3u
+https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
+https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.txt
+https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8
+https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u
+https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+https://live.zbds.org/tv/iptv4.m3u
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+https://live.fanmingming.cn/tv/m3u/ipv6.m3u
+https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/IPTV.m3u
+https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
+https://raw.githubusercontent.com/zwc456baby/iptv_alive/refs/heads/master/live.m3u
+https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u
+https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u
+https://m3u.ibert.me/fmml_ipv6.m3u
+https://www.iyouhun.com/tv/zb
+https://develop202.github.io/migu_video/interface.txt
+https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt
+https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.m3u
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+https://live.zbds.top/tv/iptv4.m3u
+https://raw.githubusercontent.com/vamoschuck/TV/main/M3U
+https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u
+https://php.946985.filegear-sg.me/jackTV.m3u
+https://iptv-org.github.io/iptv/index.m3u
+https://epg.pw/test_channels.m3u
+https://epg.pw/test_channels_hong_kong.m3u
+https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
 
-# https://live.hacks.tools/iptv/languages/zho.m3u
-# https://itv.tvbj.dpdns.org/proxy.php/live/test2_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
-# http://gxyd.484947.xyz/PLTV/77777777/224/3221226324/index.m3u8?servicetype=1
-# https://ghproxy.cc/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
-# https://ghproxy.cc/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
-# https://ghproxy.cc/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
-# https://ghproxy.cc/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
-# https://ghproxy.cc/https://raw.githubusercontent.com/xzw832/cmys/main/S_CCTV.txt
-# https://ghproxy.cc/https://raw.githubusercontent.com/xzw832/cmys/main/S_weishi.txt
-# https://ghproxy.cc/https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
-# https://ghproxy.cc/https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
-# https://ghproxy.cc/https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
-# https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
-# https://ghproxy.cc/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
-# https://ghproxy.cc/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
-# https://ghproxy.cc/https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
-# https://ghproxy.cc/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
-# https://live.kilvn.com/iptv.m3u
-# https://nft6cf127.serv00.net/ku9.php
-# https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
-# https://mirror.ghproxy.com/https://raw.githubusercontent.com/tianya7981/jiekou/refs/heads/main/野火959
-# https://4708.kstore.space/omg/tv.txt
-# https://ghproxy.net/raw.githubusercontent.com/xmbjm/TV/master/output/user_result.txt
-# https://ghproxy.net/raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt
-# https://9071.kstore.vip/有线电视橙色.txt
-# http://47.120.41.246:8899/zb.txt
-# https://7337.kstore.space/twkj/tvzb.txt
-# https://szyyds.cn/tv/live/x.txt
-# https://ghfast.top/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
-# http://8.138.7.223/live.txt
-# https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/hipy-sniffer/refs/heads/main/static/lives/lives.txt
-# https://live.iptv365.org/live.txt
-# https://bc.188766.xyz/?ip=&mishitong=true&mima=mianfeibuhuaqian
-# https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
-# https://github.com/HerbertHe/iptv-sources
-# https://github.com/ssili126/tv
-# https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/radio/m3u/fm.m3u
-# https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/radio/m3u/index.m3u
+# https://tv.iill.top/m3u/Gather
+# https://live.zbds.org/tv/iptv6.m3u
+# http://tttttt.tttttttttt.top/jk.txt
+# https://live.zbds.top/tv/iptv6.txt
+# https://live.zbds.top/tv/iptv6.m3u
+# https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+# https://web.utako.moe/jp.m3u
+# https://epg.pw/test_channels_macau.m3u
+# https://epg.pw/test_channels_taiwan.m3u
+# https://iptv-org.github.io/iptv/countries/tw.m3u
+# https://epg.pw/test_channels_singapore.m3u
+# https://epg.pw/test_channels_malaysia.m3u
+# https://live.freetv.top/huyayqk.m3u
+# https://live.freetv.top/douyuyqk.m3u
+# https://gongdian.top/tv/Mursor/yylunbo.m3u
+# https://gongdian.top/tv/Mursor/bililive.m3u
+# https://www.iyouhun.com/tv/dc
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
